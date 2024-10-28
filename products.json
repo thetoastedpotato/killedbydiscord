@@ -107,5 +107,18 @@
     "created": "2020",
     "killed": "2023",
     "icon": "https://i.imgur.com/sjDAfzC.png"
+  },
+  {  
+"name": "Discord bot tag",
+"description": "Discord bots were renamed to be called apps, killing the bot tag.",
+"created": "2015",
+"killed": "2024",
+"icon": "https://i.imgur.com/s05HmiH.jpeg"
+  },
+  { 
+"name": "Crunchy roll connection",
+"created": "2022",
+"killed": "2024",
+"icon": "https://i.imgur.com/5PPmfqo.png"
   }
 ]
